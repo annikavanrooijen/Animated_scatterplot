@@ -1,4 +1,4 @@
-# Animated_scatterplot
+# Animated scatterplot
 
 Inspiration of the Project: https://www.youtube.com/watch?v=jbkSRLYSojo
 
