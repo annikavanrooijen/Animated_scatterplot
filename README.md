@@ -8,3 +8,5 @@ Goal of the Project:
 4. Inspectin Variables: descriptive Statistics, summarize, exploratory plots
 5. Data wrangeling: Data cleaning, merge tables, rearrange axes
 6. Visualize: create an animated plot 
+
+![gapminder](https://github.com/annikavanrooijen/animated_scatterplot/assets/125203164/70515e57-0272-41a7-a10d-9db923075bcd)
